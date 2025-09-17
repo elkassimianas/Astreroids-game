@@ -50,8 +50,8 @@ def main():
                 sys.exit()
             for shot in shots:
                 if asteroid.is_colliding(shot):
-                    asteroid.kill()
                     shot.kill()
+                    asteroid.split()
 
 
 if __name__ == "__main__":
