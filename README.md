@@ -10,6 +10,9 @@ Created following [boot.dev](https://www.boot.dev/tracks/backend), built on [pyg
 ## Run
 `$ Python3 main.py`
 
+![App Screenshot](images/gameplay.png)
+
 ## Controls
  . `WASD` - Movement
  . `Spacebar` - Fire blaster
+
